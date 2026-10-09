@@ -1,0 +1,372 @@
+<!-- CABEÇALHO DO SITE -->
+
+<header>
+
+    <h1>Sem 100% Ponte</h1>
+
+    <p>Futebol que transforma vidas.</p>
+
+    <!-- MENU DE NAVEGAÇÃO -->
+
+    <nav aria-label="Navegação principal">
+
+        <ul>
+
+            <li>
+                <a href="#inicio">Início</a>
+            </li>
+
+            <li>
+                <a href="#sobre">Sobre o projeto</a>
+            </li>
+
+            <li>
+                <a href="#projetos">Projetos</a>
+            </li>
+
+            <li>
+                <a href="#voluntariado">Voluntariado</a>
+            </li>
+
+            <li>
+                <a href="#doacoes">Doações</a>
+            </li>
+
+            <li>
+                <a href="#contato">Contato</a>
+            </li>
+
+        </ul>
+
+    </nav>
+
+</header>
+
+
+<!-- CONTEÚDO PRINCIPAL -->
+
+<main>
+
+
+    <!-- SEÇÃO INICIAL -->
+
+    <section id="inicio">
+
+        <h2>Bem-vindo ao Sem 100% Ponte</h2>
+
+        <p>
+            O Sem 100% Ponte é um projeto social que utiliza
+            o futebol como ferramenta de transformação social.
+        </p>
+
+        <p>
+            Oferecemos aulas gratuitas de futebol para crianças
+            e adolescentes, promovendo esporte, educação,
+            disciplina, amizade e inclusão.
+        </p>
+
+        <p>
+            Nosso objetivo é proporcionar oportunidades através
+            do esporte e ajudar na formação de cidadãos.
+        </p>
+
+    </section>
+
+
+    <!-- SEÇÃO SOBRE -->
+
+    <section id="sobre">
+
+        <h2>Sobre o projeto</h2>
+
+        <p>
+            O Sem 100% Ponte nasceu com o propósito de levar
+            o esporte para crianças e adolescentes que não
+            possuem condições financeiras para participar
+            de atividades esportivas particulares.
+        </p>
+
+        <p>
+            Acreditamos que o futebol pode ensinar muito mais
+            do que apenas jogar bola. Ele pode ensinar respeito,
+            responsabilidade, disciplina, amizade e trabalho
+            em equipe.
+        </p>
+
+
+        <h3>Nossa missão</h3>
+
+        <p>
+            Promover o desenvolvimento de crianças e adolescentes
+            através de aulas gratuitas de futebol, contribuindo
+            para uma sociedade mais inclusiva e participativa.
+        </p>
+
+
+        <h3>Nossa visão</h3>
+
+        <p>
+            Ser reconhecido como um projeto social que transforma
+            vidas através do esporte e oferece novas oportunidades
+            para crianças e adolescentes.
+        </p>
+
+
+        <h3>Nossos valores</h3>
+
+        <ul>
+
+            <li>Respeito</li>
+
+            <li>Disciplina</li>
+
+            <li>Inclusão</li>
+
+            <li>Solidariedade</li>
+
+            <li>Amizade</li>
+
+            <li>Responsabilidade</li>
+
+            <li>Trabalho em equipe</li>
+
+            <li>Fair play</li>
+
+        </ul>
+
+    </section>
+
+
+    <!-- SEÇÃO DE PROJETOS -->
+
+    <section id="projetos">
+
+        <h2>Nossos projetos</h2>
+
+
+        <article>
+
+            <h3>Futebol para Todos</h3>
+
+            <p>
+                Aulas gratuitas de futebol para crianças
+                e adolescentes da comunidade.
+            </p>
+
+            <p>
+                Durante as atividades são trabalhados
+                fundamentos do futebol e valores importantes
+                para a formação dos participantes.
+            </p>
+
+        </article>
+
+
+        <article>
+
+            <h3>Treinamento Esportivo</h3>
+
+            <p>
+                Atividades voltadas para o desenvolvimento
+                das habilidades esportivas dos participantes.
+            </p>
+
+        </article>
+
+
+        <article>
+
+            <h3>Futebol e Cidadania</h3>
+
+            <p>
+                Utilizamos o esporte para ensinar valores
+                como respeito, disciplina, responsabilidade
+                e trabalho em equipe.
+            </p>
+
+        </article>
+
+    </section>
+
+
+    <!-- SEÇÃO DE VOLUNTARIADO -->
+
+    <section id="voluntariado">
+
+        <h2>Seja um voluntário</h2>
+
+        <p>
+            Você pode ajudar o Sem 100% Ponte a transformar
+            vidas através do esporte.
+        </p>
+
+        <p>
+            Estamos sempre buscando pessoas que queiram
+            contribuir com o projeto.
+        </p>
+
+        <h3>Como você pode ajudar?</h3>
+
+        <ul>
+
+            <li>Auxiliando nos treinamentos</li>
+
+            <li>Organizando atividades</li>
+
+            <li>Ajudando na organização dos eventos</li>
+
+            <li>Divulgando o projeto</li>
+
+            <li>Contribuindo com materiais esportivos</li>
+
+        </ul>
+
+        <p>
+            <a href="#contato">
+                Quero ser voluntário
+            </a>
+        </p>
+
+    </section>
+
+
+    <!-- SEÇÃO DE DOAÇÕES -->
+
+    <section id="doacoes">
+
+        <h2>Ajude o Sem 100% Ponte</h2>
+
+        <p>
+            Você também pode contribuir para que mais
+            crianças tenham acesso ao esporte.
+        </p>
+
+        <h3>As doações podem ajudar na compra de:</h3>
+
+        <ul>
+
+            <li>Bolas de futebol</li>
+
+            <li>Coletes esportivos</li>
+
+            <li>Uniformes</li>
+
+            <li>Chuteiras</li>
+
+            <li>Materiais de treinamento</li>
+
+            <li>Água e alimentação</li>
+
+        </ul>
+
+        <p>
+            Toda contribuição pode ajudar a manter
+            o projeto funcionando.
+        </p>
+
+    </section>
+
+
+    <!-- SEÇÃO DE IMPACTO -->
+
+    <section id="impacto">
+
+        <h2>Nosso impacto</h2>
+
+        <article>
+
+            <h3>Crianças atendidas</h3>
+
+            <p>
+                Nosso objetivo é atender cada vez mais
+                crianças através do futebol gratuito.
+            </p>
+
+        </article>
+
+
+        <article>
+
+            <h3>Aulas gratuitas</h3>
+
+            <p>
+                As atividades são oferecidas gratuitamente
+                aos participantes do projeto.
+            </p>
+
+        </article>
+
+
+        <article>
+
+            <h3>Transformação social</h3>
+
+            <p>
+                Trabalhamos para utilizar o esporte como
+                instrumento de educação e inclusão social.
+            </p>
+
+        </article>
+
+    </section>
+
+
+    <!-- SEÇÃO DE CONTATO -->
+
+    <section id="contato">
+
+        <h2>Entre em contato</h2>
+
+        <p>
+            Quer conhecer o projeto, ser voluntário
+            ou ajudar através de uma doação?
+        </p>
+
+        <address>
+
+            <p>
+                <strong>Sem 100% Ponte</strong>
+            </p>
+
+            <p>
+                E-mail:
+                <a href="mailto:contato@sem100ponte.org">
+                    contato@sem100ponte.org
+                </a>
+            </p>
+
+            <p>
+                Telefone:
+                <a href="tel:+5500000000000">
+                    (00) 00000-0000
+                </a>
+            </p>
+
+            <p>
+                Endereço:
+                Rua do Projeto, 100 -
+                Sua Cidade - SP
+            </p>
+
+        </address>
+
+    </section>
+
+</main>
+
+
+<!-- RODAPÉ -->
+
+<footer>
+
+    <p>
+        &copy; 2026 Sem 100% Ponte.
+        Todos os direitos reservados.
+    </p>
+
+    <p>
+        Projeto social de futebol gratuito
+        para crianças e adolescentes.
+    </p>
+
+</footer>
